@@ -6,7 +6,7 @@ namespace MiHolaMundo
     {
         public static void Main()
         {
-            Console.WriteLine("Hola mundo! estoy aprendiendo a usar GIT");
+            Console.WriteLine("Hola mundo! estoy aprendiendo a usar GIT (actualizacion)");
         }
     }
 }
